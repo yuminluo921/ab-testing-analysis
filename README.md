@@ -31,4 +31,4 @@
 - `ab_test_result.png`：转化率对比可视化图表。
 
 ---
-*Created by [你的名字] | 数学转码 / 数据科学自学之路*
+*Created by [yuminluo921] 
